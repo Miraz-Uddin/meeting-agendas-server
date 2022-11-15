@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "designation": "VP Marketing",
+      "name": "John Doe",
+      "id": 1
+    },
+    {
+      "designation": "Dir. Marketing",
+      "name": "John Abraham",
+      "id": 2
+    },
+    {
+      "designation": "VP Sales",
+      "name": "Katy Robertson",
+      "id": 3
+    },
+    {
+      "designation": "IT Manager",
+      "name": "Abdur Rashid",
+      "id": 4
+    }
+  ],
+  "meetings": [
+    {
+      "title": "VP Marketing",
+      "startTime": 1668452400,
+      "endTime": 1668457800,
+      "facilitator": "John Doe",
+      "Attendees": [
+        1
+      ],
+      "id": 1
+    }
+  ],
+  "agendas": [
+    {
+      "name": "Introduction",
+      "shortDescription": "Welcome and Breakfast",
+      "speaker": 1,
+      "startTime": 1668484800,
+      "endTime": 1668485700,
+      "id": 1,
+      "meetingId": 1
+    },
+    {
+      "name": "Lead Management Strategy",
+      "shortDescription": "How Can we increase leads ?",
+      "speaker": 2,
+      "startTime": 1668485760,
+      "endTime": 1668486600,
+      "id": 2,
+      "meetingId": 1
+    },
+    {
+      "name": "Sales / Marketing Alignment",
+      "shortDescription": "Definition for a OLeadO",
+      "speaker": 3,
+      "startTime": 1668486660,
+      "endTime": 1668489300,
+      "id": 3,
+      "meetingId": 1
+    }
+  ]
+}
