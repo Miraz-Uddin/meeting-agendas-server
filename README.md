@@ -1,7 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
  <p align="center">
-    <img src="./public/logo192.png" alt="Logo"  />
     <h3 align="center "><a href="https://sincere-roan-radiator.glitch.me" target="_blank" >Agenda Template Server</a></h3>
 </p>
 
